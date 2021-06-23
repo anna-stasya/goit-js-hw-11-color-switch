@@ -6,7 +6,7 @@ const colors = [
   '#009688',
   '#795548',
 ];
-console.log(colors[0]);
+
 const refs = {
     startBtn: document.querySelector('[data-action="start"]'),
     stopBtn: document.querySelector('[data-action="stop"]'),
